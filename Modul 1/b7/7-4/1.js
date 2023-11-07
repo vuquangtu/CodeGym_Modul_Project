@@ -7,6 +7,6 @@ cao = prompt("nhap chieu cao");
 var width = parseInt(rong);
 var height = parseInt(cao);34
 var area = width * height;3532
-document.write("dien tich hinh chu nhat la = " + area);
+// document.write("dien tich hinh chu nhat la = " + area);
 
 
